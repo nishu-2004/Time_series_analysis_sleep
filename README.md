@@ -43,7 +43,7 @@ This project covers:
   - **Post-run**: Sleep duration increases the next day, but **deep sleep drops significantly**.
   - **High activity = Poor sleep quality**: Notably, **deep and REM sleep dip after intense activity**, reducing sleep efficiency.
   - **Low activity days**: Tend to result in **late bedtime and longer sleep**.
-  - My **average sleep** hovered around **7 hours**, with average deep sleep at **~55 mins** and REM at **~62 mins**.
+  - My **average sleep** hovered around **7 hours**, with average deep sleep at **~65 mins** and REM at **~72 mins**.
 
 ---
 
